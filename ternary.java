@@ -9,5 +9,6 @@ public class ternary {
         System.out.println(q);    
     }
     
+    //ternary operation
     
 }
