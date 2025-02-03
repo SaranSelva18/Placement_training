@@ -6,9 +6,7 @@ public class ternary {
         int b = sc.nextInt();
         int c = sc.nextInt();
         int q =  (a>b)?((a>c)?a:c) : ((b>c)?b:c);
-        System.out.println(q);
-
-        
+        System.out.println(q);    
     }
     
     
